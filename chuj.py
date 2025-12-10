@@ -5,16 +5,7 @@ from twitchio.ext import commands
 
 # ================= KONFIGURACJA =================
 
-# --- TWITCH ---
-TWITCH_TOKEN = 'oauth:o8vqsk99gr1xy0qxap5kep6ikx3hwg  '
-TWITCH_CHANNEL_NAME = 'pcf_roleplay'          # Np. pcf_roleplay
 
-# --- DISCORD ---
-DISCORD_TOKEN = 'MTQ0NzMwOTM0ODI5NTQwOTg2OA.G-3hL3.-V204T86Y6p8tYLFeZT3KLW7JJ8s_w2bo7UEpo'
-
-# ID kanałów (Kliknij prawym na kanał w Discord -> Kopiuj ID)
-DISCORD_LIVE_CHANNEL_ID = 1437132763827540029  # Tu wpadnie info "Jestem LIVE"
-DISCORD_CHAT_CHANNEL_ID = 1447308433371037786  # Tu będzie leciał czat
 
 # ================= KOD BOTA =================
 
